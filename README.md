@@ -1,6 +1,6 @@
 FMCG Sector: Plastic Efficiency & Circularity Scorecard
 
-![Dashboard Screenshot]<img width="1132" height="647" alt="image" src="https://github.com/user-attachments/assets/dadd483e-9031-4a36-b378-371851abeec8" />
+<img width="1132" height="647" alt="image" src="https://github.com/user-attachments/assets/dadd483e-9031-4a36-b378-371851abeec8" />
 
 
 ---
